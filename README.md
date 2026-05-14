@@ -295,3 +295,4 @@ D:\painter/
 ├── main.cpp              (demo)
 ├── WaveformRendererDemo.pro
 └── README.md# Wave
+# Wave
