@@ -296,3 +296,4 @@ D:\painter/
 ├── WaveformRendererDemo.pro
 └── README.md# Wave
 # Wave
+# Wave
